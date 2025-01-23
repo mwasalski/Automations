@@ -1,0 +1,9 @@
+{
+	"name": "mwasalski",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52e18d32-6b3e-432f-a582-bb80ba1a889a",
+		"tenantId": "7a5d4d2e-ed48-4fdb-b2c6-9f99e71bc15b"
+	}
+}
